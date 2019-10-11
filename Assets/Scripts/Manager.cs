@@ -46,5 +46,4 @@ public class Manager : MonoBehaviour
             yield return new WaitForSeconds(1f);
         }
     }
-
 }
