@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_DefaultGroup: 5786cf8cb04c8415388109ef9f6bc8f4
   m_BuildRemoteCatalog: 1
+  m_DisableCatalogUpdateOnStart: 0
+  m_UniqueBundleIds: 0
   m_RemoteCatalogBuildPath:
     m_Id: 5534e331d99b04cc0a93d447c87b9120
   m_RemoteCatalogLoadPath:

@@ -23,8 +23,6 @@ public class Manager : MonoBehaviour
     {
         // local prefab:
         localNumber.InstantiateAsync(Vector3.zero, Quaternion.identity);
-
-        // remote prefabs:
     }
 
     private void LocationLoaded(AsyncOperationHandle<IList<IResourceLocation>> obj)
