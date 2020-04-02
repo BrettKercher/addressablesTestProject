@@ -1,4 +1,4 @@
-pathToAddressables = $WORKSPACE/.build/last/<BUILD_TARGET_ID>/extra_data/addrs/
+pathToAddressables=$WORKSPACE/.build/last/AB/extra_data/addrs/
 echo "Hello From Post Build Script!"
-ls pathToAddressables
+ls $pathToAddressables
 echo "Hopefully that ls worked!"
