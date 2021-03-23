@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 203794901fc8daa4aab898c1a376e1fb
+  m_SerializeEntries:
+  - m_GUID: 76ef7a7da20bc4719b618107389043e5
+    m_Address: Assets/Prefabs/2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4151041510698026027, guid: 76ef7a7da20bc4719b618107389043e5,
+      type: 3}
+    m_TargetAsset: {fileID: 4151041510698026027, guid: 76ef7a7da20bc4719b618107389043e5,
+      type: 3}
+  - m_GUID: d6f925a0462dc450088fe6b4f93534d0
+    m_Address: Assets/Prefabs/6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4819255297297910295, guid: d6f925a0462dc450088fe6b4f93534d0,
+      type: 3}
+    m_TargetAsset: {fileID: 4819255297297910295, guid: d6f925a0462dc450088fe6b4f93534d0,
+      type: 3}
+  - m_GUID: dfd1e28c7d5b4407b99c23a980037e56
+    m_Address: Assets/Prefabs/7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6767979537142239583, guid: dfd1e28c7d5b4407b99c23a980037e56,
+      type: 3}
+    m_TargetAsset: {fileID: 6767979537142239583, guid: dfd1e28c7d5b4407b99c23a980037e56,
+      type: 3}
+  - m_GUID: e4d821c27c86b49028b107b70eb7a653
+    m_Address: Assets/Prefabs/3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2156303040219375396, guid: e4d821c27c86b49028b107b70eb7a653,
+      type: 3}
+    m_TargetAsset: {fileID: 2156303040219375396, guid: e4d821c27c86b49028b107b70eb7a653,
+      type: 3}
+  - m_GUID: e652292c191eb47beba27da9b1427493
+    m_Address: Assets/Prefabs/4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5567871773756189782, guid: e652292c191eb47beba27da9b1427493,
+      type: 3}
+    m_TargetAsset: {fileID: 5567871773756189782, guid: e652292c191eb47beba27da9b1427493,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4efd2bef69d744b2dbfd492b0bad47fc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eca83da863a0531469c4ee0a2cbb64ce, type: 2}
+    - {fileID: 11400000, guid: d3562eea530f8244e8ddec93d3fbaaab, type: 2}
