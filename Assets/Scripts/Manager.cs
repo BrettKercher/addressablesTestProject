@@ -6,8 +6,10 @@ using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.ResourceManagement.ResourceLocations;
 
 public class Manager : MonoBehaviour {
+
     public AssetLabelReference RemoteNumberLabel;
     public AssetLabelReference LocalNumberLabel;
+
     private List<IResourceLocation> _remoteNumbers;
     private List<IResourceLocation> _localNumbers;
 
@@ -20,7 +22,7 @@ public class Manager : MonoBehaviour {
         _localNumbers = new List<IResourceLocation>(obj.Result);
         StartCoroutine(SpawnRemoteNumbers(3, _localNumbers));
     }
-    
+
     private void LocalLocationLoaded(AsyncOperationHandle<IList<IResourceLocation>> obj) {
         _remoteNumbers = new List<IResourceLocation>(obj.Result);
         StartCoroutine(SpawnRemoteNumbers(0, _remoteNumbers));
