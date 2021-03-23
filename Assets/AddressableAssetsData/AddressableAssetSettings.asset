@@ -13,11 +13,9 @@ MonoBehaviour:
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
   m_DefaultGroup: 5786cf8cb04c8415388109ef9f6bc8f4
-  m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_DisableCatalogUpdateOnStart: 0
-  m_IgnoreUnsupportedFilesInBuild: 0
   m_UniqueBundleIds: 0
   m_maxConcurrentWebRequests: 500
   m_ContiguousBundles: 0
@@ -86,6 +84,7 @@ MonoBehaviour:
     m_LabelNames:
     - default
     - RemoteNumbers
+    - LocalNumbers
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 855972ac9e9204c6eb0189966cafc993, type: 2}
