@@ -10,8 +10,7 @@ public class Manager : MonoBehaviour {
     public AssetLabelReference NumberLabel;
     private List<IResourceLocation> _remoteNumbers;
 
-    // Start is called before the first frame update
-    void Start() {
+    private void Start() {
         DisplayNumber();
         Addressables.LoadResourceLocationsAsync(NumberLabel.labelString).Completed += LocationLoaded;
     }
