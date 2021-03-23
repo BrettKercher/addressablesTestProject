@@ -20,6 +20,7 @@ Logs
 Assets/Plugins/Editor/JetBrains/
 # Addressables output path
 ServerData/
+Windows_Build/
 
 # Cloud Build
 build_manifest.json
