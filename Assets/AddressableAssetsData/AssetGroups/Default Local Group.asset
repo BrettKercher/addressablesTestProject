@@ -17,23 +17,21 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 5786cf8cb04c8415388109ef9f6bc8f4
   m_SerializeEntries:
-  - m_GUID: 5eea7e42f30134997a4c0ed067e1ca83
-    m_Address: 1
+  - m_GUID: 0ea35d7a530a045029d7e2a34aeaa295
+    m_Address: Assets/Prefabs/5.prefab
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - LocalNumbers
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6463904372053763330, guid: 0ea35d7a530a045029d7e2a34aeaa295,
+      type: 3}
+    m_TargetAsset: {fileID: 6463904372053763330, guid: 0ea35d7a530a045029d7e2a34aeaa295,
+      type: 3}
+  - m_GUID: 5eea7e42f30134997a4c0ed067e1ca83
+    m_Address: Assets/Prefabs/1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
     m_MainAsset: {fileID: 4393495788104749993, guid: 5eea7e42f30134997a4c0ed067e1ca83,
       type: 3}
     m_TargetAsset: {fileID: 4393495788104749993, guid: 5eea7e42f30134997a4c0ed067e1ca83,
-      type: 3}
-  - m_GUID: 76ef7a7da20bc4719b618107389043e5
-    m_Address: 2
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - LocalNumbers
-    m_MainAsset: {fileID: 4151041510698026027, guid: 76ef7a7da20bc4719b618107389043e5,
-      type: 3}
-    m_TargetAsset: {fileID: 4151041510698026027, guid: 76ef7a7da20bc4719b618107389043e5,
       type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4efd2bef69d744b2dbfd492b0bad47fc, type: 2}

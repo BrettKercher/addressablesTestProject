@@ -327,6 +327,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1736285232}
   - component: {fileID: 1736285231}
+  - component: {fileID: 1736285233}
+  - component: {fileID: 1736285234}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -341,14 +343,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1736285230}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0516aea862fbe412d94e0025e0025ebb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  localNumber:
-    m_AssetGUID: 5eea7e42f30134997a4c0ed067e1ca83
-    m_SubObjectName: 
   RemoteNumberLabel:
     m_LabelString: RemoteNumbers
   LocalNumberLabel:
@@ -367,3 +366,50 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1736285233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1736285230}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7199ea14dfea75640ab95bf4ebc55abd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _numbers:
+  - {fileID: 4393495788104749993, guid: 5eea7e42f30134997a4c0ed067e1ca83, type: 3}
+  - {fileID: 4151041510698026027, guid: 76ef7a7da20bc4719b618107389043e5, type: 3}
+  - {fileID: 2156303040219375396, guid: e4d821c27c86b49028b107b70eb7a653, type: 3}
+  - {fileID: 5567871773756189782, guid: e652292c191eb47beba27da9b1427493, type: 3}
+  - {fileID: 6463904372053763330, guid: 0ea35d7a530a045029d7e2a34aeaa295, type: 3}
+  - {fileID: 4819255297297910295, guid: d6f925a0462dc450088fe6b4f93534d0, type: 3}
+  - {fileID: 6767979537142239583, guid: dfd1e28c7d5b4407b99c23a980037e56, type: 3}
+--- !u!114 &1736285234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1736285230}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56750658be26b914383c113e03cfc880, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _references:
+  - m_AssetGUID: 5eea7e42f30134997a4c0ed067e1ca83
+    m_SubObjectName: 
+  - m_AssetGUID: 76ef7a7da20bc4719b618107389043e5
+    m_SubObjectName: 
+  - m_AssetGUID: e4d821c27c86b49028b107b70eb7a653
+    m_SubObjectName: 
+  - m_AssetGUID: e652292c191eb47beba27da9b1427493
+    m_SubObjectName: 
+  - m_AssetGUID: 0ea35d7a530a045029d7e2a34aeaa295
+    m_SubObjectName: 
+  - m_AssetGUID: d6f925a0462dc450088fe6b4f93534d0
+    m_SubObjectName: 
+  - m_AssetGUID: dfd1e28c7d5b4407b99c23a980037e56
+    m_SubObjectName: 
