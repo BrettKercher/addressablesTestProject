@@ -10,6 +10,12 @@ public class CloudBuildAddressables : MonoBehaviour
         BuildScript.buildCompleted += OnBuildComplete;
         UnityEditor.AddressableAssets.Settings.AddressableAssetSettings.BuildPlayerContent();
     }
+    
+    [MenuItem("UCB/CleanAddressables")]
+    private static void CleanAddressables()
+    {
+        UnityEditor.AddressableAssets.Settings.AddressableAssetSettings.CleanPlayerContent();
+    }
 
     private static void OnBuildComplete(object result)
     {
@@ -24,3 +30,5 @@ public class CloudBuildAddressables : MonoBehaviour
         BuildScript.buildCompleted -= OnBuildComplete;
     }
 }
+
+// AddressableAssetBuildResult.FileRegistry.GetFilePaths();

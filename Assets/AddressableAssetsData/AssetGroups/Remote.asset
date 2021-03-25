@@ -21,42 +21,38 @@ MonoBehaviour:
     m_Address: Assets/Prefabs/2.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 4151041510698026027, guid: 76ef7a7da20bc4719b618107389043e5,
-      type: 3}
-    m_TargetAsset: {fileID: 4151041510698026027, guid: 76ef7a7da20bc4719b618107389043e5,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: d6f925a0462dc450088fe6b4f93534d0
     m_Address: Assets/Prefabs/6.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 4819255297297910295, guid: d6f925a0462dc450088fe6b4f93534d0,
-      type: 3}
-    m_TargetAsset: {fileID: 4819255297297910295, guid: d6f925a0462dc450088fe6b4f93534d0,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: dfd1e28c7d5b4407b99c23a980037e56
     m_Address: Assets/Prefabs/7.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 6767979537142239583, guid: dfd1e28c7d5b4407b99c23a980037e56,
-      type: 3}
-    m_TargetAsset: {fileID: 6767979537142239583, guid: dfd1e28c7d5b4407b99c23a980037e56,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e4d821c27c86b49028b107b70eb7a653
     m_Address: Assets/Prefabs/3.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 2156303040219375396, guid: e4d821c27c86b49028b107b70eb7a653,
-      type: 3}
-    m_TargetAsset: {fileID: 2156303040219375396, guid: e4d821c27c86b49028b107b70eb7a653,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e652292c191eb47beba27da9b1427493
     m_Address: Assets/Prefabs/4.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 5567871773756189782, guid: e652292c191eb47beba27da9b1427493,
-      type: 3}
-    m_TargetAsset: {fileID: 5567871773756189782, guid: e652292c191eb47beba27da9b1427493,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7a36b2bca801bfd40ae8506f76100c79
+    m_Address: Assets/Materials/DefaultSprite.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4efd2bef69d744b2dbfd492b0bad47fc, type: 2}
   m_SchemaSet:

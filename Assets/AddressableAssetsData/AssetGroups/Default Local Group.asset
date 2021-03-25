@@ -21,18 +21,14 @@ MonoBehaviour:
     m_Address: Assets/Prefabs/5.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 6463904372053763330, guid: 0ea35d7a530a045029d7e2a34aeaa295,
-      type: 3}
-    m_TargetAsset: {fileID: 6463904372053763330, guid: 0ea35d7a530a045029d7e2a34aeaa295,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5eea7e42f30134997a4c0ed067e1ca83
     m_Address: Assets/Prefabs/1.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 4393495788104749993, guid: 5eea7e42f30134997a4c0ed067e1ca83,
-      type: 3}
-    m_TargetAsset: {fileID: 4393495788104749993, guid: 5eea7e42f30134997a4c0ed067e1ca83,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4efd2bef69d744b2dbfd492b0bad47fc, type: 2}
   m_SchemaSet:

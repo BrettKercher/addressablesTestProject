@@ -13,17 +13,22 @@ MonoBehaviour:
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
   m_DefaultGroup: 5786cf8cb04c8415388109ef9f6bc8f4
+  m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_DisableCatalogUpdateOnStart: 0
+  m_IgnoreUnsupportedFilesInBuild: 0
   m_UniqueBundleIds: 0
   m_maxConcurrentWebRequests: 500
   m_ContiguousBundles: 0
+  m_ShaderBundleNaming: 0
+  m_ShaderBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
     m_Id: 5534e331d99b04cc0a93d447c87b9120
   m_RemoteCatalogLoadPath:
     m_Id: 7671ba05bc29b4014bb6c41eb43f75b5
-  m_overridePlayerVersion: 
+  m_ContentStateBuildPath: 
+  m_overridePlayerVersion: v1.0-test
   m_GroupAssets:
   - {fileID: 11400000, guid: 04e7b3aac3d4241d18cc3e13ab14c092, type: 2}
   - {fileID: 11400000, guid: c158d286d4d684976a0494537fee5ebb, type: 2}
