@@ -7,7 +7,7 @@ public class CloudBuildAddressables : MonoBehaviour
     [MenuItem("UCB/BuildAddressables")]
     private static void BuildAddressables()
     {
-        // BuildScript.buildCompleted += OnBuildComplete;
+        BuildScript.buildCompleted += OnBuildComplete;
         UnityEditor.AddressableAssets.Settings.AddressableAssetSettings.CleanPlayerContent();
         UnityEditor.AddressableAssets.Settings.AddressableAssetSettings.BuildPlayerContent();
     }

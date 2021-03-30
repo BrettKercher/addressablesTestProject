@@ -28,7 +28,7 @@ MonoBehaviour:
   m_RemoteCatalogLoadPath:
     m_Id: 7671ba05bc29b4014bb6c41eb43f75b5
   m_ContentStateBuildPath: 
-  m_overridePlayerVersion: 
+  m_overridePlayerVersion: v1.0-test
   m_GroupAssets:
   - {fileID: 11400000, guid: 04e7b3aac3d4241d18cc3e13ab14c092, type: 2}
   - {fileID: 11400000, guid: c158d286d4d684976a0494537fee5ebb, type: 2}
