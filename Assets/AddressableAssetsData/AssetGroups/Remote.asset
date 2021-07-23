@@ -30,7 +30,7 @@ MonoBehaviour:
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: dfd1e28c7d5b4407b99c23a980037e56
-    m_Address: Assets/Prefabs/7.prefab
+    m_Address: Assets/this_is_a_folder_to_store_Prefabs_in_it_is_very_long_to_test_character_length_in_cloudbuild/7_image_long_name_to_test_path_character_count_issue_in_cloud_build.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
@@ -51,8 +51,8 @@ MonoBehaviour:
     m_Address: Assets/Materials/DefaultSprite.mat
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 2100000, guid: 7a36b2bca801bfd40ae8506f76100c79, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: 7a36b2bca801bfd40ae8506f76100c79, type: 2}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4efd2bef69d744b2dbfd492b0bad47fc, type: 2}
   m_SchemaSet:
